@@ -2,4 +2,4 @@
 
 界面如下所示：
 
-![UI](alien_invasion.png)
+![UI](alien_invasion.PNG)
